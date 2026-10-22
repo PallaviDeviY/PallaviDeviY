@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Pallavi Devi Y 👋
 
-<!--
-**PallaviDeviY/PallaviDeviY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical AI/ML projects across computer vision, NLP, and MLOps.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Scene classification API](https://github.com/PallaviDeviY/scene-yolo-api) — YOLOv8 and FastAPI
+- [Spam classification MLOps demo](https://github.com/PallaviDeviY/spam-mlops-demo)
+- [RevRag AI](https://github.com/PallaviDeviY/RevRag_AI)
+
+## Tools
+
+Python · YOLOv8 · FastAPI · NLP · MLOps
+
+[LinkedIn](https://www.linkedin.com/in/pallavi-devi-y-b4917237b)
